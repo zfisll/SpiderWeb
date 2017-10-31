@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <self.zf.lib.library.customer.SpiderWeb
+        android:id="@+id/spiderWeb"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:count="5"
+        app:polygon="7"
+        app:pointColor="@android:color/holo_red_light"
+        app:dataColor="#22ff0000"/>
+</RelativeLayout>

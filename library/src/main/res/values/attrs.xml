@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SpiderWeb">
+        <attr name="count" fomart="int"/>
+        <attr name="polygon" fomart="int"/>
+        <attr name="pointColor" format="color"/>
+        <attr name="dataColor" format="color"/>
+    </declare-styleable>
+</resources>
