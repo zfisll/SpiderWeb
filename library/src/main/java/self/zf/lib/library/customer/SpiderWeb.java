@@ -56,7 +56,7 @@ public class SpiderWeb extends View {
     /**
      * 设置绘制层数
      */
-    public void setCount(int count) {
+    public void setNewCount(int count) {
         this.mCount = count;
     }
 
